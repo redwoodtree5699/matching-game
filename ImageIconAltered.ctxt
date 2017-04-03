@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=image\ description
+comment0.target=ImageIconAltered(javax.swing.ImageIcon,\ java.lang.String)
+comment1.params=
+comment1.target=javax.swing.ImageIcon\ getImage()
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=tester
+comment3.target=boolean\ isSameAs(ImageIconAltered)
+numComments=4
